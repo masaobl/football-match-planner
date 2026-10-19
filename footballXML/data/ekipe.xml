@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekipe>
+    <ekipa id="57">
+        <ime>Arsenal FC</ime>
+        <kratkoIme>Arsenal</kratkoIme>
+        <kratica>ARS</kratica>
+        <drzava>England</drzava>
+        <naslov>75 Drayton Park London N5 1BU</naslov>
+        <letoUstanovitve>1886</letoUstanovitve>
+        <stadion>Emirates Stadium</stadion>
+        <trener>Mikel Arteta</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="61">
+        <ime>Chelsea FC</ime>
+        <kratkoIme>Chelsea</kratkoIme>
+        <kratica>CHE</kratica>
+        <drzava>England</drzava>
+        <naslov>Fulham Road London SW6 1HS</naslov>
+        <letoUstanovitve>1905</letoUstanovitve>
+        <stadion>Stamford Bridge</stadion>
+        <trener>Xabi Alonso</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="62">
+        <ime>Everton FC</ime>
+        <kratkoIme>Everton</kratkoIme>
+        <kratica>EVE</kratica>
+        <drzava>England</drzava>
+        <naslov>Goodison Park Liverpool L4 4EL</naslov>
+        <letoUstanovitve>1878</letoUstanovitve>
+        <stadion>Goodison Park</stadion>
+        <trener>David Moyes</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="63">
+        <ime>Fulham FC</ime>
+        <kratkoIme>Fulham</kratkoIme>
+        <kratica>FUL</kratica>
+        <drzava>England</drzava>
+        <naslov>Craven Cottage, Stevenage Road London SW6 6HH</naslov>
+        <letoUstanovitve>1879</letoUstanovitve>
+        <stadion>Craven Cottage</stadion>
+        <trener>Arbeloa</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="322">
+        <ime>Hull City AFC</ime>
+        <kratkoIme>Hull City</kratkoIme>
+        <kratica>HUL</kratica>
+        <drzava>England</drzava>
+        <naslov>Walton Street Hull HU3 6HU</naslov>
+        <letoUstanovitve>1904</letoUstanovitve>
+        <stadion>Kingston Communications Stadium</stadion>
+        <trener>Sergej Jakirović</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="65">
+        <ime>Manchester City FC</ime>
+        <kratkoIme>Man City</kratkoIme>
+        <kratica>MCI</kratica>
+        <drzava>England</drzava>
+        <naslov>SportCity Manchester M11 3FF</naslov>
+        <letoUstanovitve>1880</letoUstanovitve>
+        <stadion>Etihad Stadium</stadion>
+        <trener>Enzo Maresca</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="349">
+        <ime>Ipswich Town FC</ime>
+        <kratkoIme>Ipswich Town</kratkoIme>
+        <kratica>IPS</kratica>
+        <drzava>England</drzava>
+        <naslov>Portman Road Ipswich IP1 2DA</naslov>
+        <letoUstanovitve>1887</letoUstanovitve>
+        <stadion>Portman Road Stadium</stadion>
+        <trener>Gary O'Neil</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="402">
+        <ime>Brentford FC</ime>
+        <kratkoIme>Brentford</kratkoIme>
+        <kratica>BRE</kratica>
+        <drzava>England</drzava>
+        <naslov>Braemar Road Brentford TW8 0NT</naslov>
+        <letoUstanovitve>1889</letoUstanovitve>
+        <stadion>Griffin Park</stadion>
+        <trener>Keith Andrews</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    
+    <ekipa id="64">
+        <ime>Liverpool FC</ime>
+        <kratkoIme>Liverpool</kratkoIme>
+        <kratica>LIV</kratica>
+        <drzava>England</drzava>
+        <naslov>Anfield Road Liverpool L4 0TH</naslov>
+        <letoUstanovitve>1892</letoUstanovitve>
+        <stadion>Anfield</stadion>
+        <trener>Andoni Iraola</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="67">
+        <ime>Newcastle United FC</ime>
+        <kratkoIme>Newcastle</kratkoIme>
+        <kratica>NEW</kratica>
+        <drzava>England</drzava>
+        <naslov>Sports Direct Arena Newcastle upon Tyne NE1 4ST</naslov>
+        <letoUstanovitve>1881</letoUstanovitve>
+        <stadion>St. James' Park</stadion>
+        <trener>Matthias Jaissle</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="58">
+        <ime>Aston Villa FC</ime>
+        <kratkoIme>Aston Villa</kratkoIme>
+        <kratica>AVL</kratica>
+        <drzava>England</drzava>
+        <naslov>Villa Park Birmingham B6 6HE</naslov>
+        <letoUstanovitve>1872</letoUstanovitve>
+        <stadion>Villa Park</stadion>
+        <trener>Unai Emery</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="1044">
+        <ime>AFC Bournemouth</ime>
+        <kratkoIme>Bournemouth</kratkoIme>
+        <kratica>BOU</kratica>
+        <drzava>England</drzava>
+        <naslov>Dean Court, Kings Park Bournemouth BH7 7AF</naslov>
+        <letoUstanovitve>1890</letoUstanovitve>
+        <stadion>Vitality Stadium</stadion>
+        <trener>Marco Rose</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="71">
+        <ime>Sunderland AFC</ime>
+        <kratkoIme>Sunderland</kratkoIme>
+        <kratica>SUN</kratica>
+        <drzava>England</drzava>
+        <naslov>The Sunderland Stadium of Light Sunderland SR5 1SU</naslov>
+        <letoUstanovitve>1879</letoUstanovitve>
+        <stadion>Stadium of Light</stadion>
+        <trener>Regis Le Bris</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="341">
+        <ime>Leeds United FC</ime>
+        <kratkoIme>Leeds United</kratkoIme>
+        <kratica>LEE</kratica>
+        <drzava>England</drzava>
+        <naslov>Elland Road Leeds LS11 0ES</naslov>
+        <letoUstanovitve>1904</letoUstanovitve>
+        <stadion>Elland Road</stadion>
+        <trener>Daniel Farke</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="66">
+        <ime>Manchester United FC</ime>
+        <kratkoIme>Man United</kratkoIme>
+        <kratica>MUN</kratica>
+        <drzava>England</drzava>
+        <naslov>Sir Matt Busby Way Manchester M16 0RA</naslov>
+        <letoUstanovitve>1878</letoUstanovitve>
+        <stadion>Old Trafford</stadion>
+        <trener>Michael Carrick</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="397">
+        <ime>Brighton &amp; Hove Albion FC</ime>
+        <kratkoIme>Brighton Hove</kratkoIme>
+        <kratica>BHA</kratica>
+        <drzava>England</drzava>
+        <naslov>44 North Road Brighton &amp; Hove BN1 1YR</naslov>
+        <letoUstanovitve>1898</letoUstanovitve>
+        <stadion>The American Express Community Stadium</stadion>
+        <trener>Fabian Hürzeler</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="354">
+        <ime>Crystal Palace FC</ime>
+        <kratkoIme>Crystal Palace</kratkoIme>
+        <kratica>CRY</kratica>
+        <drzava>England</drzava>
+        <naslov>Whitehorse Lane London SE25 6PU</naslov>
+        <letoUstanovitve>1905</letoUstanovitve>
+        <stadion>Selhurst Park</stadion>
+        <trener>Pierre Sage</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="351">
+        <ime>Nottingham Forest FC</ime>
+        <kratkoIme>Nottingham</kratkoIme>
+        <kratica>NOT</kratica>
+        <drzava>England</drzava>
+        <naslov>Pavilion Road, West Bridgeford Nottingham NG2 5GJ</naslov>
+        <letoUstanovitve>1865</letoUstanovitve>
+        <stadion>The City Ground</stadion>
+        <trener>Oliver Glasner</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="73">
+        <ime>Tottenham Hotspur FC</ime>
+        <kratkoIme>Tottenham</kratkoIme>
+        <kratica>TOT</kratica>
+        <drzava>England</drzava>
+        <naslov>Bill Nicholson Way, 748 High Road London N17 0AP</naslov>
+        <letoUstanovitve>1882</letoUstanovitve>
+        <stadion>Tottenham Hotspur Stadium</stadion>
+        <trener>Roberto De Zerbi</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+    <ekipa id="1076">
+        <ime>Coventry City FC</ime>
+        <kratkoIme>Coventry City</kratkoIme>
+        <kratica>COV</kratica>
+        <drzava>England</drzava>
+        <naslov> Judds Lane Coventry CV6 6GE</naslov>
+        <letoUstanovitve>1883</letoUstanovitve>
+        <stadion>Coventry Building Society Arena</stadion>
+        <trener>Frank Lampard</trener>
+        <tekmovanja>
+            <tekmovanjeId>2021</tekmovanjeId>
+        </tekmovanja>
+    </ekipa>
+</ekipe>

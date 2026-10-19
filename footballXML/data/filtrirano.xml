@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tekme>
+    <tekma id="560603">
+        <datum>2026-10-17</datum>
+        <casUTC>11:30:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <tekmovanje>Premier League</tekmovanje>
+        <domacaEkipa>Everton FC</domacaEkipa>
+        <gostujocaEkipa>Chelsea FC</gostujocaEkipa>
+        <stadion>Goodison Park</stadion>
+        <goliDomaci />
+        <goliGostje />
+        <tekmovanjeId>2021</tekmovanjeId>
+        <domacaEkipaId>62</domacaEkipaId>
+        <gostujocaEkipaId>61</gostujocaEkipaId>
+    </tekma>
+    <tekma id="560602">
+        <datum>2026-10-17</datum>
+        <casUTC>14:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <tekmovanje>Premier League</tekmovanje>
+        <domacaEkipa>Fulham FC</domacaEkipa>
+        <gostujocaEkipa>Hull City AFC</gostujocaEkipa>
+        <stadion>Craven Cottage</stadion>
+        <goliDomaci />
+        <goliGostje />
+        <tekmovanjeId>2021</tekmovanjeId>
+        <domacaEkipaId>63</domacaEkipaId>
+        <gostujocaEkipaId>322</gostujocaEkipaId>
+    </tekma>
+    <tekma id="560610">
+        <datum>2026-10-17</datum>
+        <casUTC>14:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <tekmovanje>Premier League</tekmovanje>
+        <domacaEkipa>Manchester City FC</domacaEkipa>
+        <gostujocaEkipa>Ipswich Town FC</gostujocaEkipa>
+        <stadion>Etihad Stadium</stadion>
+        <goliDomaci />
+        <goliGostje />
+        <tekmovanjeId>2021</tekmovanjeId>
+        <domacaEkipaId>65</domacaEkipaId>
+        <gostujocaEkipaId>349</gostujocaEkipaId>
+    </tekma>
+    <tekma id="560611">
+        <datum>2026-10-17</datum>
+        <casUTC>14:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <tekmovanje>Premier League</tekmovanje>
+        <domacaEkipa>Brentford FC</domacaEkipa>
+        <gostujocaEkipa>Liverpool FC</gostujocaEkipa>
+        <stadion>Griffin Park</stadion>
+        <goliDomaci />
+        <goliGostje />
+        <tekmovanjeId>2021</tekmovanjeId>
+        <domacaEkipaId>402</domacaEkipaId>
+        <gostujocaEkipaId>64</gostujocaEkipaId>
+    </tekma>
+    <tekma id="560607">
+        <datum>2026-10-17</datum>
+        <casUTC>16:30:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <tekmovanje>Premier League</tekmovanje>
+        <domacaEkipa>Newcastle United FC</domacaEkipa>
+        <gostujocaEkipa>Aston Villa FC</gostujocaEkipa>
+        <stadion>St. James' Park</stadion>
+        <goliDomaci />
+        <goliGostje />
+        <tekmovanjeId>2021</tekmovanjeId>
+        <domacaEkipaId>67</domacaEkipaId>
+        <gostujocaEkipaId>58</gostujocaEkipaId>
+    </tekma>
+</tekme>

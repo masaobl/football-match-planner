@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tekmovanja>
+    <tekmovanje id="2013">
+        <ime>Campeonato Brasileiro Série A</ime>
+        <koda>BSA</koda>
+        <tip>LEAGUE</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+    <tekmovanje id="2016">
+        <ime>Championship</ime>
+        <koda>ELC</koda>
+        <tip>LEAGUE</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+    <tekmovanje id="2021">
+        <ime>Premier League</ime>
+        <koda>PL</koda>
+        <tip>LEAGUE</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+    <tekmovanje id="2001">
+        <ime>UEFA Champions League</ime>
+        <koda>CL</koda>
+        <tip>CUP</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+    <tekmovanje id="2018">
+        <ime>European Championship</ime>
+        <koda>EC</koda>
+        <tip>CUP</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+    <tekmovanje id="2015">
+        <ime>Ligue 1</ime>
+        <koda>FL1</koda>
+        <tip>LEAGUE</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+    <tekmovanje id="2002">
+        <ime>Bundesliga</ime>
+        <koda>BL1</koda>
+        <tip>LEAGUE</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+    <tekmovanje id="2019">
+        <ime>Serie A</ime>
+        <koda>SA</koda>
+        <tip>LEAGUE</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+    <tekmovanje id="2003">
+        <ime>Eredivisie</ime>
+        <koda>DED</koda>
+        <tip>LEAGUE</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+    <tekmovanje id="2017">
+        <ime>Primeira Liga</ime>
+        <koda>PPL</koda>
+        <tip>LEAGUE</tip>
+        <plan>TIER_ONE</plan>
+    </tekmovanje>
+</tekmovanja>

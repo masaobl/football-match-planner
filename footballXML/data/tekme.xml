@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tekme>
+    <tekma id="560603" tekmovanjeId="2021">
+        <datum>2026-10-17</datum>
+        <casUTC>11:30:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>62</domacaEkipaId>
+        <gostujocaEkipaId>61</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+    <tekma id="560602" tekmovanjeId="2021">
+        <datum>2026-10-17</datum>
+        <casUTC>14:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>63</domacaEkipaId>
+        <gostujocaEkipaId>322</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+    <tekma id="560610" tekmovanjeId="2021">
+        <datum>2026-10-17</datum>
+        <casUTC>14:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>65</domacaEkipaId>
+        <gostujocaEkipaId>349</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+    <tekma id="560611" tekmovanjeId="2021">
+        <datum>2026-10-17</datum>
+        <casUTC>14:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>402</domacaEkipaId>
+        <gostujocaEkipaId>64</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+    <tekma id="560607" tekmovanjeId="2021">
+        <datum>2026-10-17</datum>
+        <casUTC>16:30:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>67</domacaEkipaId>
+        <gostujocaEkipaId>58</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+    <tekma id="560604" tekmovanjeId="2021">
+        <datum>2026-10-18</datum>
+        <casUTC>13:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>1044</domacaEkipaId>
+        <gostujocaEkipaId>71</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+    <tekma id="560605" tekmovanjeId="2021">
+        <datum>2026-10-18</datum>
+        <casUTC>13:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>341</domacaEkipaId>
+        <gostujocaEkipaId>66</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+    <tekma id="560609" tekmovanjeId="2021">
+        <datum>2026-10-18</datum>
+        <casUTC>13:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>397</domacaEkipaId>
+        <gostujocaEkipaId>354</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+    <tekma id="560608" tekmovanjeId="2021">
+        <datum>2026-10-18</datum>
+        <casUTC>15:30:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>351</domacaEkipaId>
+        <gostujocaEkipaId>57</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+    <tekma id="560606" tekmovanjeId="2021">
+        <datum>2026-10-19</datum>
+        <casUTC>19:00:00</casUTC>
+        <status>TIMED</status>
+        <krog>7</krog>
+        <faza>REGULAR_SEASON</faza>
+        <domacaEkipaId>73</domacaEkipaId>
+        <gostujocaEkipaId>1076</gostujocaEkipaId>
+        <goliDomaci/>
+        <goliGostje/>
+    </tekma>
+</tekme>
