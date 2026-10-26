@@ -1,0 +1,9 @@
+# Python virtualno okolje
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Lokalna konfiguracija
+.env
