@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <title>Načrtovanje nogometne tekme</title>
+</head>
+<body>
+    <h1>LLM pomočnik za obisk tekme</h1>
+
+    <form method="POST">
+        <label>Ekipa:</label>
+        <input name="team" required maxlength="100">
+
+        <label>Mesto:</label>
+        <input name="city" required maxlength="100">
+
+        <label>Vreme:</label>
+        <input name="weather" required maxlength="100">
+
+        <label>Prevoz:</label>
+        <select name="transport">
+            <option>Javni prevoz</option>
+            <option>Avtomobil</option>
+            <option>Peš</option>
+        </select>
+
+        <button type="submit">Pridobi nasvete</button>
+    </form>
+
+    {% if error %}
+        <p>{{ error }}</p>
+    {% endif %}
+
+    {% if advice %}
+        <h2>{{ advice.povzetek }}</h2>
+
+        <h3>Priporočeni predmeti</h3>
+        <ul>
+        {% for item in advice.priporoceni_predmeti %}
+            <li>{{ item }}</li>
+        {% endfor %}
+        </ul>
+
+        <h3>Nasveti</h3>
+        <ul>
+        {% for item in advice.nasveti %}
+            <li>{{ item }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
