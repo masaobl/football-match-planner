@@ -10,6 +10,6 @@ Znotraj /sportOpenData se nahaja tretja naloga
 
 Znotraj /footballLLM se nahaja četrta naloga
 
-#Zagon
+# Zagon
 
 v ustreznem direktoriju zaženemo python app.py
